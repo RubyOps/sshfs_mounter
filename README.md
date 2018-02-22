@@ -1,2 +1,1 @@
-# sshfs_mounter
-Mount sshfs
+sshfs mount
